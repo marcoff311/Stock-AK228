@@ -1,0 +1,26 @@
+ .gitignore                        |   14 -
+ README.md                         |    1 +
+ Stocks-AK228.zip                  |  Bin 0 -> 13019455 bytes
+ cleanup-action.log                | 4535 -------------------------------------
+ cleanup_remove_node_modules.bat   |   11 -
+ commit-action.log                 | 2290 -------------------
+ do_commit.bat                     |   11 -
+ git-action.log                    |    3 -
+ index.html                        |   16 -
+ package-lock.json                 | 1719 --------------
+ package.json                      |   18 -
+ src/App.jsx                       |   36 -
+ src/components/Header.jsx         |  151 --
+ src/components/ProductModal.jsx   |  128 --
+ src/components/ToastContainer.jsx |   46 -
+ src/context/AppContext.jsx        |  107 -
+ src/data/initialData.js           |   46 -
+ src/main.jsx                      |   12 -
+ src/pages/AuthPage.jsx            |  122 -
+ src/pages/Dashboard.jsx           |  171 --
+ src/pages/InventoryPage.jsx       |  199 --
+ src/pages/OtherPages.jsx          |  141 --
+ temp_git_cmd.bat                  |    6 -
+ temp_git_output.log               | 2308 -------------------
+ vite.config.js                    |    7 -
+ 25 files changed, 1 insertion(+), 12097 deletions(-)

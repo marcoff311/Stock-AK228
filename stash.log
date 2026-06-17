@@ -1,0 +1,10 @@
+warning: in the working copy of 'branch-vv.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'curbranch.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'fetch.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'pull2.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'push-fix.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'stash.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'status-local.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'cleanup-action.log', LF will be replaced by CRLF the next time Git touches it
+Saved working directory and index state On main: temp-before-pull
+warning: failed to remove stash.log: Invalid argument

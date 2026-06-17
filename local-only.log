@@ -1,0 +1,3 @@
+df391e5  chore: save cleanup-action log before pull
+267698d Remove node_modules from repo and update .gitignore
+4ba90bc Initial commit - app de gestion des stocks

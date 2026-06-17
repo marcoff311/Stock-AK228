@@ -1,0 +1,13 @@
+## HEAD (no branch)
+?? commit2.log
+?? fetch2.log
+?? node_modules_backup/
+?? pull3.log
+?? pull4.log
+?? pull6.log
+?? push6.log
+?? push7.log
+?? remote-show.log
+?? stash.log
+?? status-after-stash.log
+?? status-div.log
