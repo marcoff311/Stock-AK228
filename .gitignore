@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+.vite/
+.cache/
+git-action.log
+temp_git_cmd.bat
+/.idea/
+.DS_Store
